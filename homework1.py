@@ -1,6 +1,5 @@
 # Name: Tianjiao Xu
 
-# Instructions:
 # In this assignment, we will practice using sorting and list comprehensions.
 
 ## Feel free to use the following global variable alphabet
