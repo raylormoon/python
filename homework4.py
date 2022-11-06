@@ -1,12 +1,6 @@
-# ST114: Homework 4
 # Name:Tianjiao Xu
 
-# Instructions:
-#   In this assignment, we will practice using conditional statements as well
-#   as become acquainted with the classic t-test.
-#
-#   This Python file homework4.py has been provided for you. You will need to
-#   edit it and then submit the file to gradescope.
+
 import math
 def standard_error(x1,x2,x3,x4):
     a=math.pow(x1-(x1+x2+x3+x4)/4,2)
