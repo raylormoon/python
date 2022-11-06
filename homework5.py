@@ -1,12 +1,5 @@
-# ST114: Homework 7
-# Name: tianjiao Xu
 
-# Instructions:
-#  In this assignment, we will practice using conditional statements and
-#  importing from a module.
-#
-# A Python file homework7.py has been provided for you. You will need to edit
-# it and then submit the file to gradescope.
+# Name: tianjiao Xu
 
 # Problem 1.
 import math
