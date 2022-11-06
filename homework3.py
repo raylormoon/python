@@ -1,11 +1,5 @@
-# ST114: Homework 5
-# Name: Tianjjiao Xu
 
-# Instructions:
-#  In this assignment, we will practice using the list type.
-#
-#   This Python file homework5.py has been provided for you. You will need to
-#   edit it and then submit the file to gradescope.
+# Name: Tianjjiao Xu
 
 import math
 # Problem 1.
