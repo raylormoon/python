@@ -1,11 +1,8 @@
-# ST114: Homework 6
+
 # Name: Tianjiao Xu
 
 # Instructions:
 #  In this assignment, we will practice writing control flow for loops.
-#
-# A Python file homework6.py has been provided for you. You will need to edit
-# it and then submit the file to gradescope.
 
 # Problem 1.
 
