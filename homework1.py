@@ -1,11 +1,7 @@
-# ST114: Homework 8
 # Name: Tianjiao Xu
 
 # Instructions:
 # In this assignment, we will practice using sorting and list comprehensions.
-#
-# A Python file homework8.py has been provided for you. You will need to edit
-# it and then submit the file to gradescope.
 
 ## Feel free to use the following global variable alphabet
 import math
